@@ -8,7 +8,7 @@ int main()
 {
     setlocale(LC_ALL, "portuguese");
 
-    string text = "The newer Example text with cpp บบบบ@@@ แแ";
+    string text = "The newer Example text with cpp ยบยบยบยบ@@@ รกรก";
 
     cout << text << endl;
 
